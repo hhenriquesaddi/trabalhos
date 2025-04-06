@@ -1,0 +1,210 @@
+/*tr*6>td*10 criacao da tabela*/  
+
+table{
+    width: 100%;
+    height: 98vh;
+}
+body {
+    margin: 0%;
+}
+td{
+    width: 10%;
+    height: 10%;
+}
+
+.cabecalho{
+    background-color:black;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    
+    
+    
+}
+.cabecalho2{
+    background-color: white;
+}
+
+.rodape{
+    background-color: rgba(32, 32, 32, 1);
+    
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+}
+.azul{
+    color: rgba(1, 250, 255, 1);
+    font-weight: bold;
+    text-align: center;
+}
+.search{
+    height: 150px;
+}
+.login{
+    height: 7vh;
+    text-align: left;
+}
+.tamanho{
+    height: 20px;
+    margin-left: 20px;
+}
+
+.direita { 
+    text-align: right;
+    
+}
+.esquerda{ text-align: left;
+
+}
+.meio{
+    background-image: url(DALL·E\ 2025-03-14\ 14.22.20\ -\ A\ high-tech\ and\ visually\ striking\ promotional\ banner\ for\ Hypercore\ Technologies\,\ featuring\ a\ sleek\,\ futuristic\ design\ with\ glowing\ circuits\,\ holograph.webp);
+    height: 1000px;
+    background-position: 50%;
+}
+
+.white{
+    color: white;
+    font-weight: lighter;
+    font-size: small;
+    text-align: center;
+}
+.gray{
+    color: rgb(175, 174, 174);
+    font-size: small;
+    text-align: center;
+
+}
+.centro {
+    text-align: center;
+}
+.searchh{
+    height: 30px;
+}
+.direita2 { 
+    text-align: center;
+    height: 80px;}
+    .direita3 { 
+        text-align: center;
+        height: 150px;}
+
+        .white2{
+            color: white;
+            font-weight: bold;
+        }
+        .promocao{
+            background-color: white;
+            text-align: center;
+            color: black;
+            height: 5px;
+            font-weight: bold;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .meio2{
+            background-image: url(DALL·E\ 2025-03-21\ 14.29.36\ -\ A\ futuristic\ technology-themed\ background\ featuring\ abstract\ digital\ elements\,\ glowing\ circuits\,\ and\ a\ sleek\,\ modern\ aesthetic.\ The\ color\ scheme\ inclu\ 1.png);
+            height: 100%;
+        }
+        .gray2{
+            color: rgb(175, 174, 174);
+            text-align: center;
+            font-size: medium;
+            font-weight: lighter;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .white3{
+            color: white;
+            font-weight: lighter;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .black{
+         color: black;
+         border-color: black;
+         background-color: white;
+         font-family: Arial, Helvetica, sans-serif;
+         font-weight: bold;
+        }
+        .black2{
+            color:white;
+            background-color: rgba(44, 44, 44, 1);
+            border-color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: bold;
+            font-size: small;
+           }
+    .cabecalho3{
+        background-color: rgba(44, 44, 44, 1);
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+        font-weight: bold;
+    }
+    .azul3{
+        background-color: rgba(44, 44, 44, 1);
+        color: rgba(1, 250, 255, 1);
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-weight: bold;
+    }
+    .white3{
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-weight: bold;
+    }
+    .meio3{
+        background-image: url(ROG-Strix-B660-F-Gaming\ 1.png);
+        height: 1000%;
+        width: 1000%;
+    }
+    .black3{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: black;
+        font-size: 160%;
+    }
+    .black4{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: lighter;
+        color: black;
+        font-size: medium;
+    }
+    .black5{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: lighter;
+        color: black;
+       font-size: small;
+    }
+    .bold{
+        font-weight: bold;
+    }
+    .white5{
+        background-color: rgba(44, 44, 44, 1);
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-weight: bold;
+    }
+    .centro2{
+        text-align: center;
+        font-family: cursive;
+        font-weight: bold;
+        font-size: 250%;
+
+    }
+    .carrinho{
+        height: 50px;
+        background-color: rgba(44, 44, 44, 1);
+        color: black;
+        text-align: center;
+    }
+    .black6{
+        color:white;
+        background-color: rgba(44, 44, 44, 1);
+        border-color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: small;
+        text-align: center;
+    }
